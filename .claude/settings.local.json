@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.obico.io)",
+      "mcp__desktop-notifications__send-notification",
+      "Bash(pip install:*)",
+      "Bash(orca-backup:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
